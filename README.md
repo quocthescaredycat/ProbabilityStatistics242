@@ -45,6 +45,5 @@ cd ProbabilityStatistics242
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-
-Author: Nguyen Hoang Quoc 
+Author: Nguyen Hoang Quoc
 Email: quoc.nguyenhoang2305@hcmut.edu.vn
