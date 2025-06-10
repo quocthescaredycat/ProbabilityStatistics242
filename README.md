@@ -19,7 +19,7 @@ This repository contains the code and report for **Project 1: Ad Click Predicti
   - `browsing_history` – Shopping / Education / Entertainment / Social Media / Unknown  
   - `time_of_day` – Morning / Afternoon / Evening / Night / Unknown  
   - `click` – target (0 = no, 1 = yes)
-  ## ✨ Features
+## ✨ Features
 
 - **Exploratory Data Analysis**: histograms, boxplots, correlation matrix  
 - **Data Preprocessing**: per‑user imputation, handling of missing values  
@@ -40,9 +40,11 @@ cd ProbabilityStatistics242
 ```
 2. Download the dataset and place it at Desktop/ad_click_dataset.csv
 3. Run on Rstudio
+
 ## 📄 License
 This project is licensed under the MIT License.
 
-##📬 Contact
+## 📬 Contact
+
 Author: Nguyen Hoang Quoc 
 Email: quoc.nguyenhoang2305@hcmut.edu.vn
