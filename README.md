@@ -34,8 +34,10 @@ This repository contains the code and report for **Project 1: Ad Click Predicti
 ## 🚀 Setup & Installation
 
 1. **Clone** this repository
+```bash
 git clone https://github.com/quocthescaredycat/ProbabilityStatistics242.git
 cd ProbabilityStatistics242
+
 2. Download the dataset and place it at Desktop/ad_click_dataset.csv
 3. Run on Rstudio
 ## 📄 License
