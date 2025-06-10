@@ -36,14 +36,8 @@ This repository contains the code and report for **Project 1: Ad Click Predicti
 1. **Clone** this repository
 git clone https://github.com/quocthescaredycat/ProbabilityStatistics242.git
 cd ProbabilityStatistics242
-Install R packages
-2. Install R packages
-install.packages(c(
-  "corrplot","ggplot2","dplyr","caret",
-  "ROCR","randomForest","car","olsrr","lmtest"
-))
-  Run on RStudio.
-3. Download the dataset and place it at Desktop/ad_click_dataset.csv
+2. Download the dataset and place it at Desktop/ad_click_dataset.csv
+3. Run on Rstudio
 ## 📄 License
 This project is licensed under the MIT License.
 
