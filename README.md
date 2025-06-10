@@ -37,12 +37,12 @@ This repository contains the code and report for **Project 1: Ad Click Predicti
 ```bash
 git clone https://github.com/quocthescaredycat/ProbabilityStatistics242.git
 cd ProbabilityStatistics242
-
+```
 2. Download the dataset and place it at Desktop/ad_click_dataset.csv
 3. Run on Rstudio
 ## 📄 License
 This project is licensed under the MIT License.
 
 ##📬 Contact
-Author: Nguyen Hoang Quoc (2353027) - quoc.nguyenhoang2305@hcmut.edu.vn
-Group: CC01 – Group 1
+Author: Nguyen Hoang Quoc 
+Email: quoc.nguyenhoang2305@hcmut.edu.vn
